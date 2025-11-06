@@ -1,0 +1,5 @@
+{
+  "name": "WebGL 3D Gear Renderer",
+  "description": "A visually appealing web application that renders an interactive, rotating 3D gear model using WebGL and React. The application showcases advanced rendering techniques with custom shaders for lighting and a procedurally generated gear mesh.",
+  "requestFramePermissions": []
+}
